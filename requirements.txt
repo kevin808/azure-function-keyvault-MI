@@ -5,4 +5,4 @@
 azure-functions
 azure-identity
 azure-keyvault-secrets
-azure.keyvault.certificates
+azure-keyvault-certificates
